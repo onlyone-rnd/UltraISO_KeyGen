@@ -2,8 +2,10 @@
 
 # UltraISO KeyGen (OpenCL Edition)
 
-> Initial idea - https://github.com/dagangwood163/PoCUltraISOKeyGen
 > ⚠️ **Concept / Proof-of-Concept only**
+
+> Initial idea - https://github.com/dagangwood163/PoCUltraISOKeyGen
+
 > This project demonstrates using **MD5 collision search** and **GPU acceleration** to generate a registration code that matches a pre-defined MD5 pattern.
 > It is **not** intended or permitted for use against commercial software, license systems or any third-party products.
 
