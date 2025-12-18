@@ -1,4 +1,4 @@
-![](https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/amd.png) ![](https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/geforce.png)
+<img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/amd.png" width="350" /> <img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/geforce.png" width="350" />
 
 # UltraISO KeyGen (OpenCL Edition)
 
