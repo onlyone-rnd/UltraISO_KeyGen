@@ -1,4 +1,4 @@
-<img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/amd.png" width="350" /> <img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/geforce.png" width="350" />
+<img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/amd.png" width="400" /> <img src="https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/geforce.png" width="400" />
 
 # UltraISO KeyGen (OpenCL Edition)
 
