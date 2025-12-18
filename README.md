@@ -1,3 +1,5 @@
+![](https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/amd.png) ![](https://github.com/onlyone-rnd/UltraISO_KeyGen/blob/main/images/geforce.png)
+
 # UltraISO KeyGen (OpenCL Edition)
 
 > Initial idea - https://github.com/dagangwood163/PoCUltraISOKeyGen
